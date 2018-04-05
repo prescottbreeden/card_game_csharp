@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/pb/.nuget/packages/": {},
+    "/Users/Goethe/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pb/Dropbox/code/csharp/deck_of_cards/deck_of_cards.csproj",
+      "projectUniqueName": "/Users/Goethe/Dropbox/code/csharp/fundamentals/deck_of_cards/deck_of_cards.csproj",
       "projectName": "deck_of_cards",
-      "projectPath": "/Users/pb/Dropbox/code/csharp/deck_of_cards/deck_of_cards.csproj",
-      "packagesPath": "/Users/pb/.nuget/packages/",
-      "outputPath": "/Users/pb/Dropbox/code/csharp/deck_of_cards/obj/",
+      "projectPath": "/Users/Goethe/Dropbox/code/csharp/fundamentals/deck_of_cards/deck_of_cards.csproj",
+      "packagesPath": "/Users/Goethe/.nuget/packages/",
+      "outputPath": "/Users/Goethe/Dropbox/code/csharp/fundamentals/deck_of_cards/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/pb/.nuget/NuGet/NuGet.Config"
+        "/Users/Goethe/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
